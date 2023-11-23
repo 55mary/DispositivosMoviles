@@ -28,7 +28,8 @@ fun main() {
     
     val resultado:Float = CalcularArea(base, altura)
     println("El area es $resultado")
-}
+}5
+
 
 
 
